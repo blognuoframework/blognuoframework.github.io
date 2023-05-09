@@ -6,8 +6,7 @@ order: 4
 toc: true
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
 
 
 * Fast Email: [pabloarrabal@nuoframework.ml](https://mypublicinbox.com/Nuoframework)
