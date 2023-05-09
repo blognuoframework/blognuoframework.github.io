@@ -18,7 +18,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog by Pablo Arrabal # the main title
+title: Pablo Arrabal [BLOG] # the main title
 
 tagline: Blog profesional de Pablo Arrabal, como Nuoframeworl # it will display as the sub-title
 
@@ -29,16 +29,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://blognuoframework.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: nuoframework # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: nuoframework # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Pablo Arrabal Espinosa
+  email: contacto@nuoframework.ml # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
