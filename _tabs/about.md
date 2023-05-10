@@ -6,10 +6,6 @@ order: 4
 toc: true
 ---
 
-<head>
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-</head>
-
 ## Social
 
 1. [<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/in/pabloarrabal)
