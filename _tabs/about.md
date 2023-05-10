@@ -8,12 +8,12 @@ toc: true
 
 ## Social
 
-1. [<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/in/pabloarrabal)
-2. [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/nuoframework)
-3. [<i class="fab fa-instagram"></i> Instagram](https://instagram.com/nuoframework)
-4. [<i class="fas fa-envelope"></i> My Public Inbox](https://mypublicinbox.com/Nuoframework)
-5. [<i class="fab fa-telegram"></i> Telegram](https://t.me/nuoframework)
-6. [<i class="fab fa-github"></i> GitHub](https://github.com/nuoframework)
-7. [<i class="fab fa-signal"></i> Signal](https://signal.group/#CjQKINPmOdSQwOSPdpPOSLg_24qooi4iKiUDtEwwnw0T6yetEhATA5M3xP5-8YbF16fus7Kj)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/social-icons/icons/linkedin.svg)](https://linkedin.com/in/pabloarrabal)
+[![Twitter](https://cdn.jsdelivr.net/npm/social-icons/icons/twitter.svg)](https://twitter.com/nuoframework)
+[![Instagram](https://cdn.jsdelivr.net/npm/social-icons/icons/instagram.svg)](https://instagram.com/nuoframework)
+[![My Public Inbox](https://cdn.jsdelivr.net/npm/social-icons/icons/email.svg)](https://mypublicinbox.com/Nuoframework)
+[![Telegram](https://cdn.jsdelivr.net/npm/social-icons/icons/telegram.svg)](https://t.me/nuoframework)
+[![GitHub](https://cdn.jsdelivr.net/npm/social-icons/icons/github.svg)](https://github.com/nuoframework)
+[![Signal](https://cdn.jsdelivr.net/npm/social-icons/icons/signal.svg)](https://signal.group/#CjQKINPmOdSQwOSPdpPOSLg_24qooi4iKiUDtEwwnw0T6yetEhATA5M3xP5-8YbF16fus7Kj)
 
 
