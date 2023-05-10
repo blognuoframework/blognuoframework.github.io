@@ -7,11 +7,11 @@ author: ID1
 toc: true
 comments: true
 image:
-  path: /assets/lib/1675765898945.jpeg
+  path: /assets/1675765898945.jpeg
   alt: image post
 ---
 
-![img-post](/assets/lib/1675765898945.jpeg){: width="700" height="400" }{: .normal }{: .shadow }
+![img-post](/assets/1675765898945.jpeg){: width="700" height="400" }{: .normal }{: .shadow }
 
 ## Historia de Tlauncher
 
