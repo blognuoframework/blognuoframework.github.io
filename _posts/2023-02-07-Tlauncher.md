@@ -8,7 +8,7 @@ toc: true
 comments: true
 image:
   path: /assets/1675765898945.jpeg
-  alt: image post
+  alt: "Imagen de: Santander Impulsa Empresa"
 ---
 
 
