@@ -23,7 +23,7 @@ Hace un tiempo los foros de Reddit, Inc. se empezaron a llenar de la teoría de 
 - Ransomware
 - Command and Control (En algunos casos)
 
-También se ha descubierto que **reinstala algunas versiones infectadas de java**, por lo que \_a pesar de desinstalar el programa este queda instalado mediante varias técnicas de persistencia\_, también se observa que modifica el registro del sistema, que es una parte muy delicada del equipo, ademas de insertar archivos en rutas protegidas como puede ser system32, ademas instala certificados raíz, que puede ayudar a la ejecución e instalación de futuro malware y por variar un poco deshabilita el administrador de tareas, entre otras muchas otras cosas que hacen que este sea el anzuelo perfecto para mucha gente, y que ya tendrá **infectados a millones de usuarios.**
+También se ha descubierto que **reinstala algunas versiones infectadas de java**, por lo que ==a pesar de desinstalar el programa este queda instalado mediante varias técnicas de persistencia==, también se observa que modifica el registro del sistema, que es una parte muy delicada del equipo, ademas de insertar archivos en rutas protegidas como puede ser system32, ademas instala certificados raíz, que puede ayudar a la ejecución e instalación de futuro malware y por variar un poco deshabilita el administrador de tareas, entre otras muchas otras cosas que hacen que este sea el anzuelo perfecto para mucha gente, y que ya tendrá **infectados a millones de usuarios.**
 
 ## Recomendaciones:
 
