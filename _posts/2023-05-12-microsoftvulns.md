@@ -1,6 +1,6 @@
 ---
 title: 'Vulnerabilidades de Microsoft: Una grave amenaza para la seguridad'
-date: 2023-05-11 22:00:00 +/-TTTT
+date: 2023-05-12 10:00:00 +/-TTTT
 categories: [Cybersecurity, Vulnerabilities]
 tags: [cybersec, vulns, microsoft, windows, risk]
 author: ID1
