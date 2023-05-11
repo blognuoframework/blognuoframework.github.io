@@ -7,8 +7,6 @@ toc: true
 ---
 ## Sobre Mí
 
-<img class="profile-picture" src="/resources/profile_photo.jpg">
-
 ¡Hola! Soy Pablo Arrabal, profesional de ciberseguridad con más de 5 años de trayectoria en el mundo de la informática en todos sus aspectos. Soy una persona con ganas de aprender y trabajar, además de autodidacta, lo cual me permite ser muy polivalente.
 
 ## Educación
