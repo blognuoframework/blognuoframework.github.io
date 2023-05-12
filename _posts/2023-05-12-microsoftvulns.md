@@ -17,6 +17,8 @@ image:
      </head>
 </html>
 
+{% include advertising.html %}
+
 
 Microsoft ha publicado una serie de vulnerabilidades en sus productos en los últimos meses. Estas vulnerabilidades afectan a una amplia gama de productos, incluidos Windows, Office, Visual Studio Code entre otros.
 

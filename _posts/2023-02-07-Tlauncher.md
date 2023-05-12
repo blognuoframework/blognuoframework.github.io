@@ -16,6 +16,8 @@ image:
      crossorigin="anonymous"></script>
 </head>
 
+{% include advertising.html %}
+
 ## Historia de Tlauncher
 
 Hace un tiempo los foros de Reddit, Inc. se empezaron a llenar de la teoría de que el lanzador de Minecraft **gratuito** y conocido por casi todos los jugadores del terreno, llamado tlauncher, este a diferencia de otros lanzadores del famoso juego, **contiene un gran cargamento de malware** y sorpresas que a medida que estos usuarios iban descubriendo, menos ganas de jugar tenían. Esta teoría se fue extendiendo por las redes, foros de internet, youtube ... Y más usuarios se unían a la investigación. Por este tiempo algunos aficionados a la seguridad informática realizaron algunas pruebas para confirmar lo que todo el mundo hablaba, adjunto enlaces de los test que se realizaron en la plataforma de SandBox de malware llamada triage [https://tria.ge/](https://tria.ge/) (desarrollada por Hatching International B.V.) y que arrojaron los siguientes datos: [https://tria.ge/230203-mnnq2sed54](https://tria.ge/230203-mnnq2sed54), en este informe de la plataforma de SandBox se puede ver que la puntuación es de 10/10, si vemos los datos que nos arroja el informe, podemos observar que contiene o instala:
