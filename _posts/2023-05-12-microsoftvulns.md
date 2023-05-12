@@ -8,7 +8,7 @@ toc: true
 comments: true
 image:
   path: /assets/descarga.jpeg
-  alt: "Imagen de: The Hacker News"
+  alt: "Imagen extraida de: The Hacker News"
 ---
 
 Microsoft ha publicado una serie de vulnerabilidades en sus productos en los últimos meses. Estas vulnerabilidades afectan a una amplia gama de productos, incluidos Windows, Office, Visual Studio Code entre otros.
