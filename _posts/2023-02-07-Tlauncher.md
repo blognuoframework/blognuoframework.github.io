@@ -16,7 +16,7 @@ image:
      crossorigin="anonymous"></script>
 </head>
 
-{% include advertising.html %}
+
 
 ## Historia de Tlauncher
 
