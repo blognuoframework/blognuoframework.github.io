@@ -11,8 +11,10 @@ image:
   alt: "Imagen de: Santander Impulsa Empresa"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
+<head>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
      crossorigin="anonymous"></script>
+</head>
 
 ## Historia de Tlauncher
 

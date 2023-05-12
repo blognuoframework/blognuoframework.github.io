@@ -11,8 +11,10 @@ image:
   alt: "Imagen extraida de: The Hacker News"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
+<head>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
      crossorigin="anonymous"></script>
+</head>
 
 Microsoft ha publicado una serie de vulnerabilidades en sus productos en los últimos meses. Estas vulnerabilidades afectan a una amplia gama de productos, incluidos Windows, Office, Visual Studio Code entre otros.
 
