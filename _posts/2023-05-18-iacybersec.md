@@ -1,6 +1,6 @@
 ---
 title: 'IA, ¿Futuro de la ciberseguridad?'
-date: 2023-05-18 11:30:00 +/-TTTT
+date: 2023-05-18 11:29:00 +/-TTTT
 categories: [Cybersecurity, Artificial Intelligence]
 tags: [cybersec, ia, ai]
 author: ID1
@@ -72,3 +72,4 @@ La IA evoluciona rápidamente y es cada vez más sofisticada. A medida que la te
   
 
 La IA es una poderosa herramienta que puede utilizarse para mejorar la ciberseguridad. Ya se están utilizando herramientas basadas en IA para detectar y prevenir ciberataques, así como para responder a incidentes de forma más rápida y eficaz. A medida que la tecnología de IA siga desarrollándose, es probable que desempeñe un papel aún más importante en la ciberseguridad en el futuro.
+
