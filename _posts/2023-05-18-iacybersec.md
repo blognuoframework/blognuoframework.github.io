@@ -11,16 +11,13 @@ image:
   alt: "Imagen extraida de: POWERDMARC"
 ---
 
-<html>
-     <head>
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
-          crossorigin="anonymous"></script>
-     </head>
-</html>
+<head>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130"
+     crossorigin="anonymous"></script>
+</head>
 
 La inteligencia artificial (IA) está transformando rápidamente el panorama de la ciberseguridad. Se están utilizando herramientas basadas en IA para detectar y prevenir ciberataques, así como para responder a los incidentes con mayor rapidez y eficacia.
 
----
 
 ### Cómo se utiliza la IA en ciberseguridad
 
