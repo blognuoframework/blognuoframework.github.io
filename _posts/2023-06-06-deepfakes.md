@@ -1,5 +1,5 @@
 ---
-title: El arte de engañar al ojo
+title: El arte de engañar al ojo humano
 date: 2023-06-06 00:00:00 +/-TTTT
 categories: [Cybersecutity, Scams]
 tags: [cybersec, scams, auth, risk, phising, future, cybercrime]
@@ -7,7 +7,7 @@ author: ID1
 toc: true
 comments: true
 image:
-  path: /assets/2023-06-06-deepfakes.jpeg
+  path: /assets/2023-06-06-deepfakes.jpg
   alt: "Imagen de: VPNOverview"
 ---
 
