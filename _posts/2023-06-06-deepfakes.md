@@ -35,11 +35,11 @@ Los deepfakes presentan una serie de riesgos y amenazas en el ámbito de la cibe
 
 **Difamación y acoso:** Los deepfakes también pueden ser utilizados para difamar o acosar a personas, ya sea creando videos falsos comprometedores o alterando imágenes y videos existentes para dañar la imagen de alguien. Esto puede tener consecuencias emocionales y psicológicas graves para las víctimas.
 
-Aquí algunos ejemplos de estafas reales: 
+Aquí algunos ejemplos de estafas reales:
 
-- https://www.incibe.es/empresas/blog/historias-reales-deepfake-mi-jefe-circulando-red
-- https://businessinsider.mx/roban-600000-dolares-empresario-china-estafa-deepfake_tecnologia/
-- https://es.gizmodo.com/estafa-deepfake-ia-video-china-1850464320
+- `https://www.incibe.es/empresas/blog/historias-reales-deepfake-mi-jefe-circulando-red`
+- `https://businessinsider.mx/roban-600000-dolares-empresario-china-estafa-deepfake_tecnologia/`
+- `https://es.gizmodo.com/estafa-deepfake-ia-video-china-1850464320`
 
 ## Detección e identificación
 
@@ -52,7 +52,6 @@ Otro enfoque se basa en el uso de *redes neuronales convolucionales* (CNN), pode
 La **autenticidad basada en la firma** es otra estrategia utilizada para detectar deepfakes. Se comparan las características visuales distintivas de una persona con las presentes en un video sospechoso para identificar inconsistencias que puedan revelar manipulación. Estas firmas pueden incluir rasgos faciales, movimientos oculares y expresiones únicas, lo que permite una evaluación más precisa de la autenticidad del contenido.
 
 La comunidad de ciberseguridad se esfuerza por fomentar la colaboración y el desarrollo continuo en la detección de deepfakes. Se promueven competencias y desafíos que reúnen a investigadores, expertos en ciberseguridad, gobiernos y la industria, con el objetivo de mejorar los algoritmos de detección y enfrentar de manera conjunta esta amenaza creciente.
-
 
 ## Legislación y regulaciones
 
@@ -67,7 +66,6 @@ A nivel de la UE, la Directiva sobre los Derechos de Autor en el Mercado Único 
 Es fundamental que la comunidad de ciberseguridad esté al tanto de estas legislaciones y regulaciones en constante evolución. La educación y la conciencia sobre los riesgos asociados con los deepfakes son esenciales para garantizar un uso responsable y ético de esta tecnología. Además, la colaboración entre expertos en ciberseguridad, gobiernos y la industria es fundamental para promover la mejora de estas regulaciones y adaptarlas a los desafíos emergentes.
 
 En última instancia, la protección contra los deepfakes requiere una combinación de medidas legales, técnicas y educativas. La comunidad de ciberseguridad juega un papel crucial al impulsar la investigación y el desarrollo de tecnologías de detección, así como al promover la conciencia pública y la adopción de buenas prácticas para proteger nuestra seguridad y privacidad en un mundo digital en constante evolución.
-
 
 ## Conclusión
 
