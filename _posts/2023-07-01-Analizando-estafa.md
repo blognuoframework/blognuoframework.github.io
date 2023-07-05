@@ -111,3 +111,11 @@ Como veis generalmente cumplen un perfil, todas tienen la descripción igual, co
 
 ![Cap16](/assets/image-16.png)
 
+### Copias de Copias
+
+Se trata de una cuenta que en su descripción tiene un código que tienen otras cuentas para la
+plataforma de eastxcoin.com pero para otra llamada bitlyxe.com, incluso la descripción es de la
+misma sintaxis. Procedo a mirar la web y me encuentro este regalito:
+Efectivamente
+
+![Cap17](/assets/image-17.png)
