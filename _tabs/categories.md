@@ -1,6 +1,0 @@
----
-layout: categories
-icon: fas fa-stream
-order: 1
----
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1924301613884130" crossorigin="anonymous"></script>
